@@ -104,6 +104,10 @@ Turns out, there is an entire subcategory on crates.io [Development tools::Testi
 ### Model Based Testing
 
 * [model](https://crates.io/crates/model)
+* [kani](https://crates.io/crates/kani-verifier)
+* [creusot](https://github.com/creusot-rs/creusot)
+* [prusti](https://github.com/viperproject/prusti-dev)
+* [aeneas](https://github.com/AeneasVerif/aeneas)
 
 ### Testing Webservices
 
@@ -121,7 +125,7 @@ Turns out, there is an entire subcategory on crates.io [Development tools::Testi
 
 ### Testing CommandLine Applications
 * https://crates.io/crates/assert_cmd
-* [assert_cli](https://crates.io/crates/assert_cli): the sucessor is [assert_cmd](https://crates.io/crates/assert_cmd)
+* [assert_cli](t: the sucessor is [assert_cmd](https://crates.io/crates/assert_cmd)
 
 ## CI
 
